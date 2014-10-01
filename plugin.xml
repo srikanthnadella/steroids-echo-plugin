@@ -18,7 +18,7 @@
   <!-- android -->
   <platform name="android">
     <config-file target="res/xml/config.xml" parent="plugins">
-      <plugin name="Echo" value="com.appgyver.plugin.Echo"/>
+      <plugin name="Echo" value="com.appgyver.plugin"/>
     </config-file>
 
     <source-file src="src/android/com/appgyver/plugin/Echo.java"
